@@ -8,7 +8,7 @@
 **Explorar**  
 Visita nuestro proyecto **InicioNort** para comenzar.  
 
-[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/NortAprende/InicioNort)  
+[![Explorar](https://github.com/NortAprende/InicioNortVPN)  
 
 ---
 
